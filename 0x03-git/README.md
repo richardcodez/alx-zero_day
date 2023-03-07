@@ -1,1 +1,1 @@
-2nd readme file inside the git directory
+2nd readme file , edited from github website
